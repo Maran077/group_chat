@@ -1,0 +1,2 @@
+# Redirect all paths to index.html, except the authentication paths
+!/auth/*    https://group-chat-app89.netlify.app/__/auth/*   200
