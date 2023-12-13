@@ -1,6 +1,0 @@
-# Redirect all paths to index.html
-/*    /index.html   200
-
-# Exclude Firebase authentication handler from redirection
-__/auth/handler*   https://group-chat-app89.netlify.app/__/auth/handler*   200
-
